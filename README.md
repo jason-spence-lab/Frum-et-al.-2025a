@@ -3,7 +3,7 @@ https://www.biorxiv.org/content/10.1101/2025.10.17.683116v1
 
 This Repository is Code in the R Programming Language for Analyzing Data and Generating Figures in:
 
-A cell atlas of the early postnatal lung reveals fibroblast-coupled transcriptional diversification within the alveolar epithelium that is impaired in bronchopulmonary dysplasia
+Clinical interventions and inflammatory signaling shape the transcriptional and cellular architecture of the early postnatal lung
 
 Tristan Frum1,*, Angeline Wu1, Marcela S. Ymayo1, Yu-Hwai Tsai1, Sha Huang1, Mengkun Yang2, Sydney G. Clark3, Peggy P. Hsu2,4, Ian A. Glass5, Gail H. Deutsch6,7, Jason R Spence1,4,8,9,*
 
